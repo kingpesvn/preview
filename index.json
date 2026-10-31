@@ -1,0 +1,1158 @@
+[
+  {
+    "id": "arts/ar-261022-01",
+    "repo": "preview",
+    "thumbs": [
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "AR-261022-01-v1.0",
+    "version": "1.0",
+    "released": "2026-10-22",
+    "name": {
+      "vi": "Quán karaoke",
+      "en": "Karaoke bar"
+    },
+    "category": "arts",
+    "pages": 4
+  },
+  {
+    "id": "auto/au-261011-01",
+    "repo": "preview",
+    "thumbs": [
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "AU-261011-01-v1.0",
+    "version": "1.0",
+    "released": "2026-10-11",
+    "name": {
+      "vi": "Garage sửa xe ô tô",
+      "en": "Auto repair shop"
+    },
+    "category": "auto",
+    "pages": 4
+  },
+  {
+    "id": "auto/au-261022-01",
+    "repo": "preview",
+    "thumbs": [
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "AU-261022-01-v1.0",
+    "version": "1.0",
+    "released": "2026-10-22",
+    "name": {
+      "vi": "Cho thuê xe tự lái",
+      "en": "Self-drive car rental"
+    },
+    "category": "auto",
+    "pages": 4
+  },
+  {
+    "id": "auto/au-261022-02",
+    "repo": "preview",
+    "thumbs": [
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "AU-261022-02-v1.0",
+    "version": "1.0",
+    "released": "2026-10-22",
+    "name": {
+      "vi": "Cho thuê xe máy du lịch",
+      "en": "Motorbike rental"
+    },
+    "category": "auto",
+    "pages": 4
+  },
+  {
+    "id": "auto/au-261025-01",
+    "repo": "preview",
+    "thumbs": [
+      "de",
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "AU-261025-01-v1.0",
+    "version": "1.0",
+    "released": "2026-10-25",
+    "name": {
+      "vi": "Trường dạy lái xe",
+      "en": "Driving school"
+    },
+    "category": "auto",
+    "pages": 5
+  },
+  {
+    "id": "beauty/bt-260927-01",
+    "repo": "preview",
+    "thumbs": [
+      "kr",
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "BT-260927-01-v1.0",
+    "version": "1.0",
+    "released": "2026-09-27",
+    "name": {
+      "vi": "Spa, làm đẹp",
+      "en": "Spa & beauty",
+      "ja": "スパ・美容"
+    },
+    "category": "beauty",
+    "pages": 5
+  },
+  {
+    "id": "beauty/bt-261009-01",
+    "repo": "preview",
+    "thumbs": [
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "BT-261009-01-v1.0",
+    "version": "1.0",
+    "released": "2026-10-09",
+    "name": {
+      "vi": "Tiệm nail",
+      "en": "Nail salon",
+      "ja": "ネイルサロン"
+    },
+    "category": "beauty",
+    "pages": 4
+  },
+  {
+    "id": "beauty/bt-261013-01",
+    "repo": "preview",
+    "thumbs": [
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "BT-261013-01-v1.0",
+    "version": "1.0",
+    "released": "2026-10-13",
+    "name": {
+      "vi": "Salon tóc & barber",
+      "en": "Barber & hair salon"
+    },
+    "category": "beauty",
+    "pages": 4
+  },
+  {
+    "id": "beauty/bt-261023-01",
+    "repo": "preview",
+    "thumbs": [
+      "th",
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "BT-261023-01-v1.0",
+    "version": "1.0",
+    "released": "2026-10-23",
+    "name": {
+      "vi": "Massage trị liệu, massage Thái",
+      "en": "Massage & Thai massage"
+    },
+    "category": "beauty",
+    "pages": 5
+  },
+  {
+    "id": "beauty/bt-261024-01",
+    "repo": "preview",
+    "thumbs": [
+      "kr",
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "BT-261024-01-v1.0",
+    "version": "1.0",
+    "released": "2026-10-24",
+    "name": {
+      "vi": "Mi và phun xăm",
+      "en": "Lash & brow studio"
+    },
+    "category": "beauty",
+    "pages": 5
+  },
+  {
+    "id": "community/cm-261025-01",
+    "repo": "preview",
+    "thumbs": [
+      "jp",
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "CM-261025-01-v1.0",
+    "version": "1.0",
+    "released": "2026-10-25",
+    "name": {
+      "vi": "Dịch vụ tang lễ",
+      "en": "Funeral services"
+    },
+    "category": "community",
+    "pages": 5
+  },
+  {
+    "id": "education/ed-261013-01",
+    "repo": "preview",
+    "thumbs": [
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "ED-261013-01-v1.0",
+    "version": "1.0",
+    "released": "2026-10-13",
+    "name": {
+      "vi": "Trung tâm tiếng Anh",
+      "en": "English language school"
+    },
+    "category": "education",
+    "pages": 4
+  },
+  {
+    "id": "education/ed-261022-01",
+    "repo": "preview",
+    "thumbs": [
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "ED-261022-01-v1.0",
+    "version": "1.0",
+    "released": "2026-10-22",
+    "name": {
+      "vi": "Lớp học nấu ăn",
+      "en": "Cooking class"
+    },
+    "category": "education",
+    "pages": 4
+  },
+  {
+    "id": "education/ed-261024-01",
+    "repo": "preview",
+    "thumbs": [
+      "jp",
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "ED-261024-01-v1.0",
+    "version": "1.0",
+    "released": "2026-10-24",
+    "name": {
+      "vi": "Trại hè",
+      "en": "Summer camp"
+    },
+    "category": "education",
+    "pages": 5
+  },
+  {
+    "id": "events/ev-261009-01",
+    "repo": "preview",
+    "thumbs": [
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "EV-261009-01-v1.0",
+    "version": "1.0",
+    "released": "2026-10-09",
+    "name": {
+      "vi": "Thiệp cưới online",
+      "en": "Wedding website",
+      "ja": "ウェディング招待状サイト"
+    },
+    "category": "events",
+    "pages": 4
+  },
+  {
+    "id": "events/ev-261022-01",
+    "repo": "preview",
+    "thumbs": [
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "EV-261022-01-v1.0",
+    "version": "1.0",
+    "released": "2026-10-22",
+    "name": {
+      "vi": "Cho thuê váy cưới, áo dài",
+      "en": "Wedding dress & ao dai rental"
+    },
+    "category": "events",
+    "pages": 4
+  },
+  {
+    "id": "farm/fm-261013-01",
+    "repo": "preview",
+    "thumbs": [
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "FM-261013-01-v1.0",
+    "version": "1.0",
+    "released": "2026-10-13",
+    "name": {
+      "vi": "Nông sản sạch",
+      "en": "Farm produce shop"
+    },
+    "category": "farm",
+    "pages": 4
+  },
+  {
+    "id": "farm/fm-261024-01",
+    "repo": "preview",
+    "thumbs": [
+      "nl",
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "FM-261024-01-v1.0",
+    "version": "1.0",
+    "released": "2026-10-24",
+    "name": {
+      "vi": "Cửa hàng cây cảnh",
+      "en": "Plant shop"
+    },
+    "category": "farm",
+    "pages": 143
+  },
+  {
+    "id": "fashion/fs-261003-01",
+    "repo": "preview",
+    "thumbs": [
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "FS-261003-01-v1.0",
+    "version": "1.0",
+    "released": "2026-10-03",
+    "name": {
+      "vi": "Shop thời trang",
+      "en": "Fashion store",
+      "ja": "ファッションストア"
+    },
+    "category": "fashion",
+    "pages": 382
+  },
+  {
+    "id": "fashion/fs-261023-01",
+    "repo": "preview",
+    "thumbs": [
+      "br",
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "FS-261023-01-v1.0",
+    "version": "1.0",
+    "released": "2026-10-23",
+    "name": {
+      "vi": "Cửa hàng giày dép",
+      "en": "Shoe store"
+    },
+    "category": "fashion",
+    "pages": 221
+  },
+  {
+    "id": "fashion/fs-261025-01",
+    "repo": "preview",
+    "thumbs": [
+      "au",
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "FS-261025-01-v1.0",
+    "version": "1.0",
+    "released": "2026-10-25",
+    "name": {
+      "vi": "Shop đồ bơi & đồ đi biển",
+      "en": "Swimwear & beachwear shop"
+    },
+    "category": "fashion",
+    "pages": 83
+  },
+  {
+    "id": "fitness/ft-261011-01",
+    "repo": "preview",
+    "thumbs": [
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "FT-261011-01-v1.0",
+    "version": "1.0",
+    "released": "2026-10-11",
+    "name": {
+      "vi": "Phòng gym & yoga",
+      "en": "Gym & yoga studio"
+    },
+    "category": "fitness",
+    "pages": 4
+  },
+  {
+    "id": "fitness/ft-261016-01",
+    "repo": "preview",
+    "thumbs": [
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "FT-261016-01-v1.0",
+    "version": "1.0",
+    "released": "2026-10-16",
+    "name": {
+      "vi": "Sân bóng đá mini",
+      "en": "Five-a-side pitch"
+    },
+    "category": "fitness",
+    "pages": 4
+  },
+  {
+    "id": "fitness/ft-261016-02",
+    "repo": "preview",
+    "thumbs": [
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "FT-261016-02-v1.0",
+    "version": "1.0",
+    "released": "2026-10-16",
+    "name": {
+      "vi": "Sân cầu lông",
+      "en": "Badminton courts"
+    },
+    "category": "fitness",
+    "pages": 4
+  },
+  {
+    "id": "fitness/ft-261016-03",
+    "repo": "preview",
+    "thumbs": [
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "FT-261016-03-v1.0",
+    "version": "1.0",
+    "released": "2026-10-16",
+    "name": {
+      "vi": "CLB tennis & pickleball",
+      "en": "Tennis & pickleball club",
+      "ja": "テニス＆ピックルボールクラブ",
+      "ko": "테니스·피클볼 클럽",
+      "zh": "网球与匹克球俱乐部",
+      "th": "คลับเทนนิสและพิกเคิลบอล",
+      "id": "Klub tenis & pickleball",
+      "es": "Club de tenis y pickleball",
+      "fr": "Club de tennis et pickleball",
+      "de": "Tennis- & Pickleball-Club",
+      "pt": "Clube de tênis e pickleball",
+      "ru": "Клуб тенниса и пиклбола"
+    },
+    "category": "fitness",
+    "pages": 4
+  },
+  {
+    "id": "fitness/ft-261024-01",
+    "repo": "preview",
+    "thumbs": [
+      "th",
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "FT-261024-01-v1.0",
+    "version": "1.0",
+    "released": "2026-10-24",
+    "name": {
+      "vi": "Võ thuật, boxing",
+      "en": "Martial arts & boxing"
+    },
+    "category": "fitness",
+    "pages": 5
+  },
+  {
+    "id": "fitness/ft-261025-01",
+    "repo": "preview",
+    "thumbs": [
+      "au",
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "FT-261025-01-v1.0",
+    "version": "1.0",
+    "released": "2026-10-25",
+    "name": {
+      "vi": "Cửa hàng đồ thể thao",
+      "en": "Sports store"
+    },
+    "category": "fitness",
+    "pages": 83
+  },
+  {
+    "id": "food/fd-260927-01",
+    "repo": "preview",
+    "thumbs": [
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "FD-260927-01-v1.0",
+    "version": "1.0",
+    "released": "2026-09-27",
+    "name": {
+      "vi": "Tiệm bánh",
+      "en": "Bakery",
+      "ja": "ベーカリー"
+    },
+    "category": "food",
+    "pages": 19
+  },
+  {
+    "id": "food/fd-260927-02",
+    "repo": "preview",
+    "thumbs": [
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "FD-260927-02-v1.0",
+    "version": "1.0",
+    "released": "2026-09-27",
+    "name": {
+      "vi": "Quán cà phê",
+      "en": "Coffee shop",
+      "ja": "カフェ"
+    },
+    "category": "food",
+    "pages": 4
+  },
+  {
+    "id": "food/fd-261002-01",
+    "repo": "preview",
+    "thumbs": [
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "FD-261002-01-v1.0",
+    "version": "1.0",
+    "released": "2026-10-02",
+    "name": {
+      "vi": "Quán phở",
+      "en": "Noodle house",
+      "ja": "フォー専門店"
+    },
+    "category": "food",
+    "pages": 4
+  },
+  {
+    "id": "food/fd-261009-01",
+    "repo": "preview",
+    "thumbs": [
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "FD-261009-01-v1.0",
+    "version": "1.0",
+    "released": "2026-10-09",
+    "name": {
+      "vi": "Quán cơm văn phòng",
+      "en": "Rice eatery & office lunch",
+      "ja": "定食屋・ランチ配達"
+    },
+    "category": "food",
+    "pages": 4
+  },
+  {
+    "id": "food/fd-261014-01",
+    "repo": "preview",
+    "thumbs": [
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "FD-261014-01-v1.0",
+    "version": "1.0",
+    "released": "2026-10-14",
+    "name": {
+      "vi": "Quán trà sữa",
+      "en": "Bubble tea shop"
+    },
+    "category": "food",
+    "pages": 4
+  },
+  {
+    "id": "food/fd-261023-01",
+    "repo": "preview",
+    "thumbs": [
+      "fr",
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "FD-261023-01-v1.0",
+    "version": "1.0",
+    "released": "2026-10-23",
+    "name": {
+      "vi": "Tiệm bánh mì",
+      "en": "Banh mi shop"
+    },
+    "category": "food",
+    "pages": 5
+  },
+  {
+    "id": "food/fd-261024-01",
+    "repo": "preview",
+    "thumbs": [
+      "cn",
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "FD-261024-01-v1.0",
+    "version": "1.0",
+    "released": "2026-10-24",
+    "name": {
+      "vi": "Trà & trà cụ",
+      "en": "Tea & teaware"
+    },
+    "category": "food",
+    "pages": 101
+  },
+  {
+    "id": "health/hl-261009-01",
+    "repo": "preview",
+    "thumbs": [
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "HL-261009-01-v1.0",
+    "version": "1.0",
+    "released": "2026-10-09",
+    "name": {
+      "vi": "Phòng khám nha khoa",
+      "en": "Dental clinic",
+      "ja": "歯科クリニック"
+    },
+    "category": "health",
+    "pages": 4
+  },
+  {
+    "id": "health/hl-261024-01",
+    "repo": "preview",
+    "thumbs": [
+      "kr",
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "HL-261024-01-v1.0",
+    "version": "1.0",
+    "released": "2026-10-24",
+    "name": {
+      "vi": "Phòng khám da liễu",
+      "en": "Dermatology clinic"
+    },
+    "category": "health",
+    "pages": 5
+  },
+  {
+    "id": "health/hl-261027-01",
+    "repo": "preview",
+    "thumbs": [
+      "fr",
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "HL-261027-01-v1.0",
+    "version": "1.0",
+    "released": "2026-10-27",
+    "name": {
+      "vi": "Tiệm kính mắt",
+      "en": "Optical shop"
+    },
+    "category": "health",
+    "pages": 68
+  },
+  {
+    "id": "home/hs-261024-01",
+    "repo": "preview",
+    "thumbs": [
+      "sg",
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "HS-261024-01-v1.0",
+    "version": "1.0",
+    "released": "2026-10-24",
+    "name": {
+      "vi": "Vệ sinh nhà cửa",
+      "en": "Home cleaning"
+    },
+    "category": "home",
+    "pages": 5
+  },
+  {
+    "id": "industry/ib-261024-01",
+    "repo": "preview",
+    "thumbs": [
+      "eg",
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "IB-261024-01-v1.0",
+    "version": "1.0",
+    "released": "2026-10-24",
+    "name": {
+      "vi": "Xưởng in",
+      "en": "Print shop"
+    },
+    "category": "industry",
+    "pages": 59
+  },
+  {
+    "id": "interior/in-261016-01",
+    "repo": "preview",
+    "thumbs": [
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "IN-261016-01-v1.0",
+    "version": "1.0",
+    "released": "2026-10-16",
+    "name": {
+      "vi": "Nội thất gỗ",
+      "en": "Wood interior"
+    },
+    "category": "interior",
+    "pages": 4
+  },
+  {
+    "id": "interior/in-261024-01",
+    "repo": "preview",
+    "thumbs": [
+      "au",
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "IN-261024-01-v1.0",
+    "version": "1.0",
+    "released": "2026-10-24",
+    "name": {
+      "vi": "Ngũ kim, dụng cụ",
+      "en": "Hardware store"
+    },
+    "category": "interior",
+    "pages": 209
+  },
+  {
+    "id": "interior/in-261027-01",
+    "repo": "preview",
+    "thumbs": [
+      "kr",
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "IN-261027-01-v1.0",
+    "version": "1.0",
+    "released": "2026-10-27",
+    "name": {
+      "vi": "Thợ sửa nhà",
+      "en": "Home repair service"
+    },
+    "category": "interior",
+    "pages": 5
+  },
+  {
+    "id": "legal/lg-261022-01",
+    "repo": "preview",
+    "thumbs": [
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "LG-261022-01-v1.0",
+    "version": "1.0",
+    "released": "2026-10-22",
+    "name": {
+      "vi": "Văn phòng luật sư",
+      "en": "Law firm"
+    },
+    "category": "legal",
+    "pages": 4
+  },
+  {
+    "id": "legal/lg-261024-01",
+    "repo": "preview",
+    "thumbs": [
+      "de",
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "LG-261024-01-v1.0",
+    "version": "1.0",
+    "released": "2026-10-24",
+    "name": {
+      "vi": "Dịch thuật, phiên dịch",
+      "en": "Translation & interpreting"
+    },
+    "category": "legal",
+    "pages": 5
+  },
+  {
+    "id": "pets/pt-261013-01",
+    "repo": "preview",
+    "thumbs": [
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "PT-261013-01-v1.0",
+    "version": "1.0",
+    "released": "2026-10-13",
+    "name": {
+      "vi": "Spa thú cưng",
+      "en": "Pet grooming & spa"
+    },
+    "category": "pets",
+    "pages": 4
+  },
+  {
+    "id": "pets/pt-261022-01",
+    "repo": "preview",
+    "thumbs": [
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "PT-261022-01-v1.0",
+    "version": "1.0",
+    "released": "2026-10-22",
+    "name": {
+      "vi": "Phòng khám thú y",
+      "en": "Veterinary clinic"
+    },
+    "category": "pets",
+    "pages": 4
+  },
+  {
+    "id": "photo/ph-261014-01",
+    "repo": "preview",
+    "thumbs": [
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "PH-261014-01-v1.0",
+    "version": "1.0",
+    "released": "2026-10-14",
+    "name": {
+      "vi": "Studio ảnh",
+      "en": "Photo studio"
+    },
+    "category": "photo",
+    "pages": 4
+  },
+  {
+    "id": "portfolio/pf-261016-01",
+    "repo": "preview",
+    "thumbs": [
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "PF-261016-01-v1.0",
+    "version": "1.0",
+    "released": "2026-10-16",
+    "name": {
+      "vi": "Portfolio & CV tối giản",
+      "en": "Minimal portfolio & CV"
+    },
+    "category": "portfolio",
+    "pages": 4
+  },
+  {
+    "id": "portfolio/pf-261025-01",
+    "repo": "preview",
+    "thumbs": [
+      "ph",
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "PF-261025-01-v1.0",
+    "version": "1.0",
+    "released": "2026-10-25",
+    "name": {
+      "vi": "Ca sĩ, ban nhạc",
+      "en": "Singer & band"
+    },
+    "category": "portfolio",
+    "pages": 5
+  },
+  {
+    "id": "realty/re-261022-01",
+    "repo": "preview",
+    "thumbs": [
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "RE-261022-01-v1.0",
+    "version": "1.0",
+    "released": "2026-10-22",
+    "name": {
+      "vi": "Căn hộ dịch vụ cho thuê",
+      "en": "Serviced apartment rental"
+    },
+    "category": "realty",
+    "pages": 4
+  },
+  {
+    "id": "realty/re-261022-02",
+    "repo": "preview",
+    "thumbs": [
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "RE-261022-02-v1.0",
+    "version": "1.0",
+    "released": "2026-10-22",
+    "name": {
+      "vi": "Văn phòng bất động sản",
+      "en": "Real estate agency"
+    },
+    "category": "realty",
+    "pages": 4
+  },
+  {
+    "id": "retail/rt-260927-01",
+    "repo": "preview",
+    "thumbs": [
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "RT-260927-01-v1.0",
+    "version": "1.0",
+    "released": "2026-09-27",
+    "name": {
+      "vi": "Cửa hàng điện thoại, máy tính bảng",
+      "en": "Phone & tablet store",
+      "ja": "スマホ・タブレット店"
+    },
+    "category": "retail",
+    "pages": 24
+  },
+  {
+    "id": "retail/rt-261002-01",
+    "repo": "preview",
+    "thumbs": [
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "RT-261002-01-v1.0",
+    "version": "1.0",
+    "released": "2026-10-02",
+    "name": {
+      "vi": "Tiệm hoa tươi",
+      "en": "Flower shop",
+      "ja": "フラワーショップ"
+    },
+    "category": "retail",
+    "pages": 218
+  },
+  {
+    "id": "retail/rt-261003-01",
+    "repo": "preview",
+    "thumbs": [
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "RT-261003-01-v1.0",
+    "version": "1.0",
+    "released": "2026-10-03",
+    "name": {
+      "vi": "Cửa hàng xe đạp & xe điện",
+      "en": "Bike & e-bike shop",
+      "ja": "自転車・電動バイクショップ"
+    },
+    "category": "retail",
+    "pages": 218
+  },
+  {
+    "id": "retail/rt-261023-01",
+    "repo": "preview",
+    "thumbs": [
+      "gb",
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "RT-261023-01-v1.0",
+    "version": "1.0",
+    "released": "2026-10-23",
+    "name": {
+      "vi": "Cửa hàng quà tặng",
+      "en": "Gift shop"
+    },
+    "category": "retail",
+    "pages": 221
+  },
+  {
+    "id": "tech/tc-261022-01",
+    "repo": "preview",
+    "thumbs": [
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "TC-261022-01-v1.0",
+    "version": "1.0",
+    "released": "2026-10-22",
+    "name": {
+      "vi": "Coworking, phòng họp theo giờ",
+      "en": "Coworking & meeting rooms"
+    },
+    "category": "tech",
+    "pages": 4
+  },
+  {
+    "id": "tech/tc-261025-01",
+    "repo": "preview",
+    "thumbs": [
+      "mx",
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "TC-261025-01-v1.0",
+    "version": "1.0",
+    "released": "2026-10-25",
+    "name": {
+      "vi": "Lắp camera an ninh",
+      "en": "Security camera installer"
+    },
+    "category": "tech",
+    "pages": 5
+  },
+  {
+    "id": "travel/tr-261009-01",
+    "repo": "preview",
+    "thumbs": [
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "TR-261009-01-v1.0",
+    "version": "1.0",
+    "released": "2026-10-09",
+    "name": {
+      "vi": "Homestay",
+      "en": "Homestay",
+      "ja": "ゲストハウス"
+    },
+    "category": "travel",
+    "pages": 4
+  },
+  {
+    "id": "travel/tr-261016-01",
+    "repo": "preview",
+    "thumbs": [
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "TR-261016-01-v1.0",
+    "version": "1.0",
+    "released": "2026-10-16",
+    "name": {
+      "vi": "Khách sạn mini",
+      "en": "Boutique hotel",
+      "ja": "ビジネスホテル",
+      "ko": "부티크 호텔",
+      "zh": "精品酒店",
+      "th": "โรงแรมบูทีค",
+      "id": "Hotel butik",
+      "es": "Hotel boutique",
+      "fr": "Hôtel de charme",
+      "de": "Boutique-Hotel",
+      "pt": "Hotel boutique",
+      "ru": "Мини-отель"
+    },
+    "category": "travel",
+    "pages": 4
+  },
+  {
+    "id": "travel/tr-261025-01",
+    "repo": "preview",
+    "thumbs": [
+      "th",
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "TR-261025-01-v1.0",
+    "version": "1.0",
+    "released": "2026-10-25",
+    "name": {
+      "vi": "Công ty tour",
+      "en": "Tour company"
+    },
+    "category": "travel",
+    "pages": 5
+  },
+  {
+    "id": "travel/tr-261025-02",
+    "repo": "preview",
+    "thumbs": [
+      "au",
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "TR-261025-02-v1.0",
+    "version": "1.0",
+    "released": "2026-10-25",
+    "name": {
+      "vi": "Trường lướt sóng",
+      "en": "Surf school"
+    },
+    "category": "travel",
+    "pages": 5
+  }
+]
