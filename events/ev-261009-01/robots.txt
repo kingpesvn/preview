@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kingpes.net/preview/events/ev-261009-01/sitemap.xml

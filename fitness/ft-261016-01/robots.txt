@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kingpes.net/preview/fitness/ft-261016-01/sitemap.xml

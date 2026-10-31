@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kingpes.net/preview/education/ed-261013-01/sitemap.xml

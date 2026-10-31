@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kingpes.net/preview/auto/au-261011-01/sitemap.xml

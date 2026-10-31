@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kingpes.net/preview/farm/fm-261024-01/sitemap.xml
