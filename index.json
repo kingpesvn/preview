@@ -18,6 +18,63 @@
     "pages": 4
   },
   {
+    "id": "arts/ar-261103-01",
+    "repo": "preview",
+    "thumbs": [
+      "jp",
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "AR-261103-01-v1.0",
+    "version": "1.0",
+    "released": "2026-11-03",
+    "name": {
+      "vi": "Cửa hàng nhạc cụ",
+      "en": "Music store"
+    },
+    "category": "arts",
+    "pages": 77
+  },
+  {
+    "id": "arts/ar-261106-01",
+    "repo": "preview",
+    "thumbs": [
+      "jp",
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "AR-261106-01-v1.0",
+    "version": "1.0",
+    "released": "2026-11-06",
+    "name": {
+      "vi": "Game & máy chơi game",
+      "en": "Video game store"
+    },
+    "category": "arts",
+    "pages": 62
+  },
+  {
+    "id": "arts/ar-261107-01",
+    "repo": "preview",
+    "thumbs": [
+      "ph",
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "AR-261107-01-v1.0",
+    "version": "1.0",
+    "released": "2026-11-07",
+    "name": {
+      "vi": "Câu lạc bộ bida",
+      "en": "Billiards club"
+    },
+    "category": "arts",
+    "pages": 5
+  },
+  {
     "id": "auto/au-261011-01",
     "repo": "preview",
     "thumbs": [
@@ -89,6 +146,25 @@
     },
     "category": "auto",
     "pages": 5
+  },
+  {
+    "id": "auto/au-261105-01",
+    "repo": "preview",
+    "thumbs": [
+      "mx",
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "AU-261105-01-v1.0",
+    "version": "1.0",
+    "released": "2026-11-05",
+    "name": {
+      "vi": "Lốp & mâm xe",
+      "en": "Tyre & wheel shop"
+    },
+    "category": "auto",
+    "pages": 47
   },
   {
     "id": "beauty/bt-260927-01",
@@ -186,6 +262,25 @@
     "pages": 5
   },
   {
+    "id": "beauty/bt-261103-01",
+    "repo": "preview",
+    "thumbs": [
+      "kr",
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "BT-261103-01-v1.0",
+    "version": "1.0",
+    "released": "2026-11-03",
+    "name": {
+      "vi": "Cửa hàng mỹ phẩm",
+      "en": "Cosmetics store"
+    },
+    "category": "beauty",
+    "pages": 77
+  },
+  {
     "id": "community/cm-261025-01",
     "repo": "preview",
     "thumbs": [
@@ -255,6 +350,25 @@
     "name": {
       "vi": "Trại hè",
       "en": "Summer camp"
+    },
+    "category": "education",
+    "pages": 5
+  },
+  {
+    "id": "education/ed-261106-01",
+    "repo": "preview",
+    "thumbs": [
+      "kr",
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "ED-261106-01-v1.0",
+    "version": "1.0",
+    "released": "2026-11-06",
+    "name": {
+      "vi": "Trung tâm gia sư",
+      "en": "Tutoring center"
     },
     "category": "education",
     "pages": 5
@@ -334,6 +448,25 @@
     "pages": 143
   },
   {
+    "id": "farm/fm-261103-01",
+    "repo": "preview",
+    "thumbs": [
+      "nz",
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "FM-261103-01-v1.0",
+    "version": "1.0",
+    "released": "2026-11-03",
+    "name": {
+      "vi": "Trang trại tham quan",
+      "en": "Visitor farm"
+    },
+    "category": "farm",
+    "pages": 5
+  },
+  {
     "id": "fashion/fs-261003-01",
     "repo": "preview",
     "thumbs": [
@@ -389,6 +522,25 @@
     },
     "category": "fashion",
     "pages": 83
+  },
+  {
+    "id": "fashion/fs-261104-01",
+    "repo": "preview",
+    "thumbs": [
+      "gb",
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "FS-261104-01-v1.0",
+    "version": "1.0",
+    "released": "2026-11-04",
+    "name": {
+      "vi": "Thợ may đo",
+      "en": "Tailor shop"
+    },
+    "category": "fashion",
+    "pages": 56
   },
   {
     "id": "fitness/ft-261011-01",
@@ -509,6 +661,44 @@
     },
     "category": "fitness",
     "pages": 83
+  },
+  {
+    "id": "fitness/ft-261031-01",
+    "repo": "preview",
+    "thumbs": [
+      "au",
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "FT-261031-01-v1.0",
+    "version": "1.0",
+    "released": "2026-10-31",
+    "name": {
+      "vi": "Lớp học bơi",
+      "en": "Swim school"
+    },
+    "category": "fitness",
+    "pages": 5
+  },
+  {
+    "id": "fitness/ft-261107-01",
+    "repo": "preview",
+    "thumbs": [
+      "au",
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "FT-261107-01-v1.0",
+    "version": "1.0",
+    "released": "2026-11-07",
+    "name": {
+      "vi": "Studio Pilates",
+      "en": "Pilates studio"
+    },
+    "category": "fitness",
+    "pages": 5
   },
   {
     "id": "food/fd-260927-01",
@@ -643,6 +833,25 @@
     "pages": 101
   },
   {
+    "id": "food/fd-261104-01",
+    "repo": "preview",
+    "thumbs": [
+      "kr",
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "FD-261104-01-v1.0",
+    "version": "1.0",
+    "released": "2026-11-04",
+    "name": {
+      "vi": "Quán lẩu nướng",
+      "en": "Hot pot & BBQ restaurant"
+    },
+    "category": "food",
+    "pages": 77
+  },
+  {
     "id": "health/hl-261009-01",
     "repo": "preview",
     "thumbs": [
@@ -700,6 +909,25 @@
     "pages": 68
   },
   {
+    "id": "health/hl-261104-01",
+    "repo": "preview",
+    "thumbs": [
+      "au",
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "HL-261104-01-v1.0",
+    "version": "1.0",
+    "released": "2026-11-04",
+    "name": {
+      "vi": "Vật lý trị liệu",
+      "en": "Physiotherapy clinic"
+    },
+    "category": "health",
+    "pages": 5
+  },
+  {
     "id": "home/hs-261024-01",
     "repo": "preview",
     "thumbs": [
@@ -714,6 +942,25 @@
     "name": {
       "vi": "Vệ sinh nhà cửa",
       "en": "Home cleaning"
+    },
+    "category": "home",
+    "pages": 5
+  },
+  {
+    "id": "home/hs-261105-01",
+    "repo": "preview",
+    "thumbs": [
+      "de",
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "HS-261105-01-v1.0",
+    "version": "1.0",
+    "released": "2026-11-05",
+    "name": {
+      "vi": "Dịch vụ chuyển nhà",
+      "en": "Moving company"
     },
     "category": "home",
     "pages": 5
@@ -867,6 +1114,25 @@
     "pages": 4
   },
   {
+    "id": "pets/pt-261103-01",
+    "repo": "preview",
+    "thumbs": [
+      "jp",
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "PT-261103-01-v1.0",
+    "version": "1.0",
+    "released": "2026-11-03",
+    "name": {
+      "vi": "Khách sạn thú cưng",
+      "en": "Pet hotel"
+    },
+    "category": "pets",
+    "pages": 5
+  },
+  {
     "id": "photo/ph-261014-01",
     "repo": "preview",
     "thumbs": [
@@ -958,6 +1224,25 @@
     "pages": 4
   },
   {
+    "id": "realty/re-261031-01",
+    "repo": "preview",
+    "thumbs": [
+      "au",
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "RE-261031-01-v1.0",
+    "version": "1.0",
+    "released": "2026-10-31",
+    "name": {
+      "vi": "Môi giới vay mua nhà",
+      "en": "Mortgage broker"
+    },
+    "category": "realty",
+    "pages": 5
+  },
+  {
     "id": "retail/rt-260927-01",
     "repo": "preview",
     "thumbs": [
@@ -1032,6 +1317,44 @@
     },
     "category": "retail",
     "pages": 221
+  },
+  {
+    "id": "retail/rt-261104-01",
+    "repo": "preview",
+    "thumbs": [
+      "jp",
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "RT-261104-01-v1.0",
+    "version": "1.0",
+    "released": "2026-11-04",
+    "name": {
+      "vi": "Sửa đồng hồ, sửa giày",
+      "en": "Watch & shoe repair"
+    },
+    "category": "retail",
+    "pages": 62
+  },
+  {
+    "id": "retail/rt-261104-02",
+    "repo": "preview",
+    "thumbs": [
+      "th",
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "RT-261104-02-v1.0",
+    "version": "1.0",
+    "released": "2026-11-04",
+    "name": {
+      "vi": "Cửa hàng quà lưu niệm",
+      "en": "Souvenir shop"
+    },
+    "category": "retail",
+    "pages": 71
   },
   {
     "id": "tech/tc-261022-01",
@@ -1151,6 +1474,25 @@
     "name": {
       "vi": "Trường lướt sóng",
       "en": "Surf school"
+    },
+    "category": "travel",
+    "pages": 5
+  },
+  {
+    "id": "travel/tr-261104-01",
+    "repo": "preview",
+    "thumbs": [
+      "fr",
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "TR-261104-01-v1.0",
+    "version": "1.0",
+    "released": "2026-11-04",
+    "name": {
+      "vi": "Trường trượt tuyết",
+      "en": "Ski school"
     },
     "category": "travel",
     "pages": 5
