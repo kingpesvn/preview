@@ -778,6 +778,62 @@
     "pages": 4
   },
   {
+    "id": "events/ev-261113-01",
+    "repo": "preview",
+    "markets": [
+      {
+        "id": "us",
+        "lang": "en"
+      },
+      {
+        "id": "it",
+        "lang": "it"
+      }
+    ],
+    "thumbs": [
+      "it",
+      "us",
+      "default"
+    ],
+    "code": "EV-261113-01-v1.0",
+    "version": "1.0",
+    "released": "2026-11-13",
+    "name": {
+      "vi": "Wedding planner",
+      "en": "Wedding planner"
+    },
+    "category": "events",
+    "pages": 4
+  },
+  {
+    "id": "events/ev-261113-02",
+    "repo": "preview",
+    "markets": [
+      {
+        "id": "us",
+        "lang": "en"
+      },
+      {
+        "id": "kr",
+        "lang": "ko"
+      }
+    ],
+    "thumbs": [
+      "kr",
+      "us",
+      "default"
+    ],
+    "code": "EV-261113-02-v1.0",
+    "version": "1.0",
+    "released": "2026-11-13",
+    "name": {
+      "vi": "Phụ kiện cô dâu",
+      "en": "Bridal accessories"
+    },
+    "category": "events",
+    "pages": 4
+  },
+  {
     "id": "farm/fm-261013-01",
     "repo": "preview",
     "markets": [
@@ -903,6 +959,34 @@
     },
     "category": "farm",
     "pages": 5
+  },
+  {
+    "id": "farm/fm-261113-01",
+    "repo": "preview",
+    "markets": [
+      {
+        "id": "us",
+        "lang": "en"
+      },
+      {
+        "id": "jp",
+        "lang": "ja"
+      }
+    ],
+    "thumbs": [
+      "jp",
+      "us",
+      "default"
+    ],
+    "code": "FM-261113-01-v1.0",
+    "version": "1.0",
+    "released": "2026-11-13",
+    "name": {
+      "vi": "Hải sản tươi",
+      "en": "Fresh seafood market"
+    },
+    "category": "farm",
+    "pages": 4
   },
   {
     "id": "fashion/fs-261003-01",
@@ -1031,6 +1115,36 @@
     },
     "category": "fashion",
     "pages": 56
+  },
+  {
+    "id": "fashion/fs-261113-01",
+    "repo": "preview",
+    "markets": [
+      {
+        "id": "us",
+        "lang": "en"
+      },
+      {
+        "id": "jp",
+        "lang": "ja"
+      }
+    ],
+    "thumbs": [
+      "jp",
+      "mx",
+      "us",
+      "vn",
+      "default"
+    ],
+    "code": "FS-261113-01-v1.0",
+    "version": "1.0",
+    "released": "2026-11-13",
+    "name": {
+      "vi": "Cho thuê trang phục, cosplay",
+      "en": "Costume & cosplay rental"
+    },
+    "category": "fashion",
+    "pages": 4
   },
   {
     "id": "fitness/ft-261011-01",
@@ -1563,6 +1677,34 @@
     "pages": 59
   },
   {
+    "id": "food/fd-261113-01",
+    "repo": "preview",
+    "markets": [
+      {
+        "id": "us",
+        "lang": "en"
+      },
+      {
+        "id": "jp",
+        "lang": "ja"
+      }
+    ],
+    "thumbs": [
+      "jp",
+      "us",
+      "default"
+    ],
+    "code": "FD-261113-01-v1.0",
+    "version": "1.0",
+    "released": "2026-11-13",
+    "name": {
+      "vi": "Quán ramen",
+      "en": "Ramen shop"
+    },
+    "category": "food",
+    "pages": 4
+  },
+  {
     "id": "health/hl-261009-01",
     "repo": "preview",
     "markets": [
@@ -1689,6 +1831,34 @@
     },
     "category": "health",
     "pages": 5
+  },
+  {
+    "id": "health/hl-261113-01",
+    "repo": "preview",
+    "markets": [
+      {
+        "id": "us",
+        "lang": "en"
+      },
+      {
+        "id": "ca",
+        "lang": "en"
+      }
+    ],
+    "thumbs": [
+      "ca",
+      "us",
+      "default"
+    ],
+    "code": "HL-261113-01-v1.0",
+    "version": "1.0",
+    "released": "2026-11-13",
+    "name": {
+      "vi": "Nắn chỉnh cột sống",
+      "en": "Chiropractic clinic"
+    },
+    "category": "health",
+    "pages": 4
   },
   {
     "id": "home/hs-261024-01",
@@ -1950,6 +2120,34 @@
     "pages": 5
   },
   {
+    "id": "interior/in-261113-01",
+    "repo": "preview",
+    "markets": [
+      {
+        "id": "us",
+        "lang": "en"
+      },
+      {
+        "id": "se",
+        "lang": "sv"
+      }
+    ],
+    "thumbs": [
+      "se",
+      "us",
+      "default"
+    ],
+    "code": "IN-261113-01-v1.0",
+    "version": "1.0",
+    "released": "2026-11-13",
+    "name": {
+      "vi": "Nội thất gia đình",
+      "en": "Home furniture store"
+    },
+    "category": "interior",
+    "pages": 44
+  },
+  {
     "id": "legal/lg-261022-01",
     "repo": "preview",
     "markets": [
@@ -2131,6 +2329,34 @@
     },
     "category": "pets",
     "pages": 5
+  },
+  {
+    "id": "pets/pt-261113-01",
+    "repo": "preview",
+    "markets": [
+      {
+        "id": "us",
+        "lang": "en"
+      },
+      {
+        "id": "de",
+        "lang": "de"
+      }
+    ],
+    "thumbs": [
+      "de",
+      "us",
+      "default"
+    ],
+    "code": "PT-261113-01-v1.0",
+    "version": "1.0",
+    "released": "2026-11-13",
+    "name": {
+      "vi": "Huấn luyện chó",
+      "en": "Dog training"
+    },
+    "category": "pets",
+    "pages": 4
   },
   {
     "id": "photo/ph-261014-01",
@@ -2400,6 +2626,39 @@
     "name": {
       "vi": "Môi giới vay mua nhà",
       "en": "Mortgage broker"
+    },
+    "category": "realty",
+    "pages": 5
+  },
+  {
+    "id": "realty/re-261113-01",
+    "repo": "preview",
+    "markets": [
+      {
+        "id": "us",
+        "lang": "en"
+      },
+      {
+        "id": "gb",
+        "lang": "en"
+      },
+      {
+        "id": "es",
+        "lang": "es"
+      }
+    ],
+    "thumbs": [
+      "es",
+      "gb",
+      "us",
+      "default"
+    ],
+    "code": "RE-261113-01-v1.0",
+    "version": "1.0",
+    "released": "2026-11-13",
+    "name": {
+      "vi": "Quản lý cho thuê nhà",
+      "en": "Property management"
     },
     "category": "realty",
     "pages": 5
@@ -2915,5 +3174,33 @@
     },
     "category": "travel",
     "pages": 5
+  },
+  {
+    "id": "travel/tr-261113-01",
+    "repo": "preview",
+    "markets": [
+      {
+        "id": "us",
+        "lang": "en"
+      },
+      {
+        "id": "th",
+        "lang": "th"
+      }
+    ],
+    "thumbs": [
+      "th",
+      "us",
+      "default"
+    ],
+    "code": "TR-261113-01-v1.0",
+    "version": "1.0",
+    "released": "2026-11-13",
+    "name": {
+      "vi": "Trung tâm lặn biển",
+      "en": "Dive center"
+    },
+    "category": "travel",
+    "pages": 4
   }
 ]
